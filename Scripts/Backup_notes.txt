@@ -1,0 +1,13 @@
+
+
+
+
+1. Set Variables (S3_BUCKET)
+2. Validate arguments
+3. check tools mysqldump, AWS, gzip
+4. Logic to take back up for given databases
+5. Backup Size 100 
+6. Upload to S3
+
+
+backup.sh database-1 database-2
